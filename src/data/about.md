@@ -5,7 +5,7 @@ I am a student at INSA Toulouse and am currently actively looking for a PFE!
 
 # Currently
 
-I will get my diploma at 2022 Juin and am particularly interersted in the domain of data science, AI, and machine learning. It would be my objective to find a job at a lab that allows mt to continue as a Phd Student or a company that offers the relevant jobs and CIFRE if ppossible. 
+I will get my diploma at 2022 Juin and am particularly interersted in the domain of data science, AI, and machine learning. It would be my objective to find a job at a lab that allows me to continue as a Phd Student or a company that offers the relevant jobs and CIFRE if possible. 
 
 
 # Fun facts
